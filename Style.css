@@ -1,0 +1,23 @@
+#boom {
+    text-align: center;
+    background-color: #11bed9;
+
+}
+
+.Hi {
+    height: 10px;
+    background-color: black;
+    width: 150px;
+    margin: auto
+}
+
+#a {
+    text-align: center;
+    background-color: #eb6596;
+}
+.i {
+    transition: transform .5s;
+}
+.i:hover {
+transform: scale(0.9);
+}
